@@ -1,9 +1,9 @@
-# Bachelor-s-Thesis-on-Optical-Computing-Memory-and-Data-Centers
+# Bachelor-Thesis-on-Optical-Computing-Memory-and-Data-Centers
 # Integrating Optical Technologies for Enhanced Processing, Memory, and Bandwidth Scalability in Next-Generation Computing
 ## Overview
-This repository contains my **Bachelor’s Thesis** completed at **SUNY Polytechnic Institute** as part of the requirements for the Bachelor of Science degree in Engineering Technology.
-The thesis explores how **optical and photonic technologies** can overcome the physical limitations of traditional silicon-based computing systems and enable the next generation of high-performance processors, memory systems, and scalable data centers.
-As Moore’s Law approaches practical limits, this research investigates how light-based computing systems can deliver major improvements in speed, efficiency, bandwidth, and power consumption.
+---
+
+### *This is my Bachelor’s Thesis completed at SUNY Polytechnic Institute as part of the requirements for the Bachelor of Science degree in Engineering Technology. The thesis explores how **optical and photonic technologies** can overcome the physical limitations of traditional silicon-based computing systems and enable the next generation of high-performance processors, memory systems, and scalable data centers. As Moore’s Law approaches practical limits, this research investigates how light-based computing systems can deliver major improvements in speed, efficiency, bandwidth, and power consumption.*
 ---
 ## Research Focus Areas
 ### Optical Processing
